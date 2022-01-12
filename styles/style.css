@@ -157,7 +157,7 @@ hr {
 
 /* Mobile Devices */
 @media only screen and (max-width: 688px) {
-  .containers {
+  .container {
     width: 100%;
   }
   .players,
